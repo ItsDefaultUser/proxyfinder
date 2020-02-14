@@ -1,4 +1,4 @@
-#Created by Jeremy Jung
+#Created by Jeremy Jung (Thursday, June 7, 2018)
 #Takes scripts from the command line and returns addresses of proxies by type
 from urllib import FancyURLopener
 from random import choice
